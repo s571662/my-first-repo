@@ -1,5 +1,11 @@
 Apple
 Baobab
+<<<<<<< HEAD
 Cherry
 Dogwood
 Elm
+=======
+Cherry1231
+Dogwood
+Elm1231
+>>>>>>> alternative
